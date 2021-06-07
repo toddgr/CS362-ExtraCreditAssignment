@@ -32,4 +32,4 @@ def test_question3_2():
 
 
 def test_question3_3():
-    assert [10, 5] == Question3.findSum([9, 18, 10, 24, 19, 15], 15)
+    assert [10, 5] == Question3.findSum([9, 18, 10, 24, 19, 5], 15)

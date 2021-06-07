@@ -24,5 +24,6 @@ class TestCase(unittest.TestCase):
         target_sum = 21
         self.assertEqual(Question3.findSum(array, target_sum), [9, 12])
 
+
 if __name__ == "__main__":
     unittest.main()

@@ -16,7 +16,7 @@ def test_question1_1():
 
 
 def test_question1_2():
-    assert "mean do you What" == Question1.reverseSentence("What do you mean")
+    assert "mean you do What" == Question1.reverseSentence("What do you mean")
 
 
 def test_question1_3():

@@ -14,8 +14,9 @@ import unittest
 class TestCase(unittest.TestCase):
 
     def test_question1_1(self):
-        self.assertEqual(Question1.reverseSentence("My name is Grace"),
-                         "Grace is name My")
+        sentence = "My name is Grace"
+        result = "Grace is name My"
+        self.assertEqual(Question1.reverseSentence(sentence), result)
 
 
 if __name__ == "__main__":

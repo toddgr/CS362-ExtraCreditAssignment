@@ -19,3 +19,4 @@ def reverseSentence(str):
     newSentence = " ".join(revSentence)
     # Print new sentence
     print(newSentence)
+    return newSentence

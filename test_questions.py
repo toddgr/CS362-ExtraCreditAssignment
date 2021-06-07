@@ -8,6 +8,7 @@ EXTRA CREDIT ASSIGNMENT PYTEST FUNCTION
 
 import pytest
 import Question1
+import Question3
 
 
 def test_question1_1():

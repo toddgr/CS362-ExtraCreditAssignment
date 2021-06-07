@@ -1,0 +1,23 @@
+Grace Todd
+CS 362: Software Engineering II
+Spring 2021
+
+EXTRA CREDIT ASSIGNMENT QUESTION 2
+
+Write 5 user stories for your social media system from in-class activity 1. Your user stories 
+should have the following format - As - I need/I want - so that. They should have a success criterion.
+Follow examples in lecture documents and resources. 
+
+
+For my social media system for activity 1, I chose SnapChat. 
+
+1. As a user with multiple friends named Emily, I want to be able to customize the names of my friends's Snapchat profiles
+so that I know which friend I am sending messages to on Snapchat.
+2. As a user who uses Snapchat filters, I want to be able to save my Snapchat photos and videos to my camera roll so that I 
+can share them outside of Snapchat stories.
+3. As a user, I want to be able to save some of my Snapchat photos privately so that I can have some privacy 
+in my Snapchat memories.
+4. As a user who sends a lot of messages, I want my messages with my friends to disappear after 24 hours so that my Snapchat 
+messages are not cluttered.
+5. As a user who tends to forget things, I want to be able to save certain messages in chats with my friends so that I can 
+remember what has been said even after 24 hours.

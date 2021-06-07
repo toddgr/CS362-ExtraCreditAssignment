@@ -13,6 +13,8 @@ import Question3
 
 def test_question1_1():
     assert "Grace is name My" == Question1.reverseSentence("My name is Grace")
+    assert "mean do you What" == Question1.reverseSentence("What do you mean")
+    assert "sentence another is This" == Question1.reverseSentence("This is another sentence")
 
 
 def test_question3_1():

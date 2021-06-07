@@ -20,7 +20,7 @@ class TestCase(unittest.TestCase):
         self.assertEqual(Question1.reverseSentence(sentence), result)
 
     def test_question1_2(self):
-        sentence = "This is for the extra credit assignment."
+        sentence = "This is for the extra credit assignment"
         result = "assignment credit extra the for is This"
         self.assertEqual(Question1.reverseSentence(sentence), result)
 
